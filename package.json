@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Cordova plugin for stopping custom keyboards from being used.",
   "cordova": {
-    "id": "cordova-plugin-restrict-keyboard",
+    "id": "cordova-plugin-restrict-keyboard-fork",
     "platforms": [
       "ios"
     ]
